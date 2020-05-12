@@ -1,0 +1,147 @@
+[
+  {
+      "_id": "5eb52ae1532e0a777e3a7d3a",
+      "title": "Slim-fit velvet trousers",
+      "description": "Slim-fit trousers in stretch velvet, an iconic fabric and symbol of the Maison. The garment has a button and zip closure and side and rear double welt pockets with buttons. Leg cuff width 19 cm.",
+      "categories": [
+        "bottoms",
+        "pants"
+      ],
+      "variants": [
+        {
+          "price": {
+            "sale": 122,
+            "regular": 222
+          },
+          "color": "blue",
+          "sku": "1M3EtgDLpg",
+          "images": [
+            "https://www.armani.com/13/13380052TR_16_f.jpg"
+          ],
+          "sizes": [
+            {
+              "_id": "5eb52ae1532e0a777e3a7d44",
+              "size": 36,
+              "quantity": 42
+            }
+          ]
+        }
+      ]
+    },
+      {
+      "_id": "5eb52ae1532e0a777e3a7d3b",
+      "title": "Slim-fit velvet trousers",
+      "description": "Slim-fit trousers in stretch velvet, an iconic fabric and symbol of the Maison. The garment has a button and zip closure and side and rear double welt pockets with buttons. Leg cuff width 19 cm.",
+      "categories": [
+        "bottoms",
+        "pants"
+      ],
+      "variants": [
+        {
+          "price": {
+            "sale": 122,
+            "regular": 222
+          },
+          "color": "blue",
+          "sku": "1M3EtgDLpg",
+          "images": [
+            "https://www.armani.com/13/13380052TR_16_f.jpg"
+          ],
+          "sizes": [
+            {
+              "_id": "5eb52ae1532e0a777e3a7d44",
+              "size": 36,
+              "quantity": 42
+            }
+          ]
+        }
+      ]
+    },
+      {
+      "_id": "5eb52ae1532e0a777e3a7d3c",
+      "title": "Slim-fit velvet trousers",
+      "description": "Slim-fit trousers in stretch velvet, an iconic fabric and symbol of the Maison. The garment has a button and zip closure and side and rear double welt pockets with buttons. Leg cuff width 19 cm.",
+      "categories": [
+        "bottoms",
+        "pants"
+      ],
+      "variants": [
+        {
+          "price": {
+            "sale": 122,
+            "regular": 222
+          },
+          "color": "blue",
+          "sku": "1M3EtgDLpg",
+          "images": [
+            "https://www.armani.com/13/13380052TR_16_f.jpg"
+          ],
+          "sizes": [
+            {
+              "_id": "5eb52ae1532e0a777e3a7d44",
+              "size": 36,
+              "quantity": 42
+            }
+          ]
+        }
+      ]
+    },
+      {
+      "_id": "5eb52ae1532e0a777e3a7d3d",
+      "title": "Slim-fit velvet trousers",
+      "description": "Slim-fit trousers in stretch velvet, an iconic fabric and symbol of the Maison. The garment has a button and zip closure and side and rear double welt pockets with buttons. Leg cuff width 19 cm.",
+      "categories": [
+        "bottoms",
+        "pants"
+      ],
+      "variants": [
+        {
+          "price": {
+            "sale": 122,
+            "regular": 222
+          },
+          "color": "blue",
+          "sku": "1M3EtgDLpg",
+          "images": [
+            "https://www.armani.com/13/13380052TR_16_f.jpg"
+          ],
+          "sizes": [
+            {
+              "_id": "5eb52ae1532e0a777e3a7d44",
+              "size": 36,
+              "quantity": 42
+            }
+          ]
+        }
+      ]
+    },
+      {
+      "_id": "5eb52ae1532e0a777e3a7d3e",
+      "title": "Slim-fit velvet trousers",
+      "description": "Slim-fit trousers in stretch velvet, an iconic fabric and symbol of the Maison. The garment has a button and zip closure and side and rear double welt pockets with buttons. Leg cuff width 19 cm.",
+      "categories": [
+        "bottoms",
+        "pants"
+      ],
+      "variants": [
+        {
+          "price": {
+            "sale": 122,
+            "regular": 222
+          },
+          "color": "blue",
+          "sku": "1M3EtgDLpg",
+          "images": [
+            "https://www.armani.com/13/13380052TR_16_f.jpg"
+          ],
+          "sizes": [
+            {
+              "_id": "5eb52ae1532e0a777e3a7d44",
+              "size": 36,
+              "quantity": 42
+            }
+          ]
+        }
+      ]
+  }
+]
